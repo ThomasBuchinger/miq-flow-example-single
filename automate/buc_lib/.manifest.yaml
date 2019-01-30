@@ -1,0 +1,93 @@
+---
+__domain__.yaml:
+  classes: 1
+  instances: 2
+  method_files: 2
+  method_instances: 2
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &1 2019-01-30 07:09:26.882691000 Z
+    zone: &2 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: *1
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &3 2019-01-30 07:09:37.433360000 Z
+    zone: *2
+    time: *3
+  size: 210
+  sha1: X3w4wgxfNjOOToJJDxHE3wtsFvI=
+buc_lib/GenericObect/__namespace__.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &4 2019-01-30 07:10:03.943689000 Z
+    zone: *2
+    time: *4
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &5 2019-01-30 07:10:03.943689000 Z
+    zone: *2
+    time: *5
+  size: 153
+  sha1: 4Gv8u9qWJwdppkgxykT5LYDZJtI=
+buc_lib/GenericObect/AccountingEntry.class/__class__.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &6 2019-01-30 07:18:18.402782000 Z
+    zone: *2
+    time: *6
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &7 2019-01-30 07:18:18.402782000 Z
+    zone: *2
+    time: *7
+  size: 189
+  sha1: Tih+c0ijCbkxm7rKOvtFwXB/Q88=
+buc_lib/GenericObect/AccountingEntry.class/CreateAccounting.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &8 2019-01-30 07:18:56.016835000 Z
+    zone: *2
+    time: *8
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &9 2019-01-30 07:18:56.016835000 Z
+    zone: *2
+    time: *9
+  size: 153
+  sha1: HUvCVKgxIqp5zPje4EAfQxiXH/8=
+buc_lib/GenericObect/AccountingEntry.class/RemoveAccounting.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &10 2019-01-30 07:19:12.650410000 Z
+    zone: *2
+    time: *10
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &11 2019-01-30 07:19:12.650410000 Z
+    zone: *2
+    time: *11
+  size: 153
+  sha1: 5npNayaSt3/dvu23ga7930YpRyY=
+buc_lib/GenericObect/AccountingEntry.class/__methods__/create_accounting_entry.rb:
+  created_on: &14 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &12 2019-01-30 07:19:40.675096000 Z
+    zone: *2
+    time: *12
+  updated_on: &15 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &13 2019-01-30 07:19:40.675096000 Z
+    zone: *2
+    time: *13
+  size: 45
+  sha1: ntGiErGmd4rD74L727/8KuOUn98=
+buc_lib/GenericObect/AccountingEntry.class/__methods__/create_accounting_entry.yaml:
+  created_on: *14
+  updated_on: *15
+  size: 219
+  sha1: 8dflKmvtOSoq06pPCdXVqTou+Xk=
+buc_lib/GenericObect/AccountingEntry.class/__methods__/remove_accoutning_entry.rb:
+  created_on: &18 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &16 2019-01-30 07:20:12.864507000 Z
+    zone: *2
+    time: *16
+  updated_on: &19 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &17 2019-01-30 07:20:12.864507000 Z
+    zone: *2
+    time: *17
+  size: 45
+  sha1: ntGiErGmd4rD74L727/8KuOUn98=
+buc_lib/GenericObect/AccountingEntry.class/__methods__/remove_accoutning_entry.yaml:
+  created_on: *18
+  updated_on: *19
+  size: 219
+  sha1: nT/tD5tRDJCsX4hBaZhr1xiVsbk=
